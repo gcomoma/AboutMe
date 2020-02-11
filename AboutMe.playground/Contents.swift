@@ -24,3 +24,9 @@ import UIKit
 
 var myName = "Gregory Omoma"
 var myLove = "Coding"
+
+
+
+
+
+
